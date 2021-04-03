@@ -1,0 +1,31 @@
+{
+  "name": "selenium.jasmine",
+  "version": "1.0.0",
+  "description": "selenium jasmine framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansut72/selenium.jasmine.git"
+  },
+  "keywords": [
+    "selenium",
+    "jasmine",
+    "smartbear"
+  ],
+  "author": "Sandor Suta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansut72/selenium.jasmine/issues"
+  },
+  "homepage": "https://github.com/sansut72/selenium.jasmine#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.2"
+  },
+  "devDependencies": {
+    "chromedriver": "^89.0.0",
+    "jasmine": "^3.7.0"
+  }
+}
