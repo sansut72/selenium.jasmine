@@ -16,7 +16,7 @@
     "smartbear"
   ],
   "author": "Sandor Suta",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sansut72/selenium.jasmine/issues"
   },
